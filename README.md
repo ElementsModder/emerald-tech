@@ -3,4 +3,4 @@ emerald-tech
 
 Emerald Technologies
 
-This is still an in-dev coding project so please be patient !
+This is still in-dev, so be patient. We are working on it.
